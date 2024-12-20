@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: rgb(56, 203, 51);
+}
+
+#currentWeather {
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.forecast-card {
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.forecast-card img {
+    width: 60px;
+}
